@@ -4,7 +4,8 @@
 
 Me chamo Ruan Assis, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em Informática no UNASP-SP. Sou apaixonado por tecnologia, com foco no desenvolvimento de software e na resolução de problemas tecnológicos. Ao longo da minha formação, desenvolvi projetos envolvendo lógica de programação e sistemas computacionais. Tenho perfil proativo, facilidade para aprender novas ferramentas e interesse constante em evoluir na área de TI.
 
-🔗 **LinkedIn:** [www.linkedin.com/in/ruanassis](https://www.linkedin.com/in/ruanassis)
+🔗 **LinkedIn:** [www.linkedin.com/in/ruanassis](https://www.linkedin.com/in/ruanassis)  
+📧 **E-mail:** ruansilvadeassis@gmail.com
 
 <p align="left">
     <a href="https://github.com/RuanAssis?tab=repositories&sort=stargazers">
