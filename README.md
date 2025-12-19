@@ -6,6 +6,8 @@ Me chamo **Ruan Assis** e sou **formado em Tecnologia da Informação**, com for
 
 Tenho perfil **proativo**, facilidade para aprender novas ferramentas e interesse constante em evoluir na área de TI. Busco oportunidades como **profissional júnior ou primeira experiência na área**, onde eu possa aplicar meus conhecimentos, desenvolver habilidades técnicas e contribuir com a equipe.
 
+🔗 **LinkedIn:** [www.linkedin.com/in/ruanassis](https://www.linkedin.com/in/ruanassis)
+
 <p align="left">
     <a href="https://github.com/RuanAssis?tab=repositories&sort=stargazers">
         <img 
@@ -35,6 +37,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+
+<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
