@@ -2,9 +2,7 @@
 
 **`Técnico em Informática`**
 
-Me chamo **Ruan Assis** e sou **formado em Tecnologia da Informação**, com formação voltada ao desenvolvimento de software e à resolução de problemas tecnológicos. Ao longo da minha trajetória acadêmica, desenvolvi projetos envolvendo **lógica de programação, sistemas computacionais e aplicação prática da tecnologia**, sempre buscando soluções eficientes e funcionais.
-
-Tenho perfil **proativo**, facilidade para aprender novas ferramentas e interesse constante em evoluir na área de TI. Busco oportunidades como **profissional júnior ou primeira experiência na área**, onde eu possa aplicar meus conhecimentos, desenvolver habilidades técnicas e contribuir com a equipe.
+Me chamo Ruan Assis, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em Informática no UNASP-SP. Sou apaixonado por tecnologia, com foco no desenvolvimento de software e na resolução de problemas tecnológicos. Ao longo da minha formação, desenvolvi projetos envolvendo lógica de programação e sistemas computacionais. Tenho perfil proativo, facilidade para aprender novas ferramentas e interesse constante em evoluir na área de TI.
 
 🔗 **LinkedIn:** [www.linkedin.com/in/ruanassis](https://www.linkedin.com/in/ruanassis)
 
