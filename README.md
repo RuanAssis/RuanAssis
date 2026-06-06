@@ -1,8 +1,15 @@
 # 👨🏻‍💻 Ruan Assis
 
-**`Técnico em Informática`**
+**`Técnico em Informática e Estudante de Engenharia da Computação`**
 
-Me chamo Ruan Assis, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio integrado ao curso técnico em Informática no UNASP-SP. Sou apaixonado por tecnologia, com foco no desenvolvimento de software e na resolução de problemas tecnológicos. Ao longo da minha formação, desenvolvi projetos envolvendo lógica de programação e sistemas computacionais. Tenho perfil proativo, facilidade para aprender novas ferramentas e interesse constante em evoluir na área de TI.
+Olá, eu sou Ruan Assis
+
+Sou formado como Técnico em Informática pelo UNASP-SP e atualmente curso Engenharia da Computação.
+
+Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas por meio da programação. Tenho experiência com HTML, CSS, JavaScript, Python e C, além de interesse em desenvolvimento web, automação de processos e criação de soluções tecnológicas.
+
+Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver projetos que gerem impacto real. Neste perfil, você encontrará alguns dos projetos que desenvolvi ao longo da minha trajetória acadêmica e pessoal.
+
 
 🔗 **LinkedIn:** [www.linkedin.com/in/ruanassis](https://www.linkedin.com/in/ruanassis)  
 📧 **E-mail:** ruansilvadeassis@gmail.com
